@@ -79,5 +79,7 @@ This project is licensed under the MIT License.
 
 Swayam Kumar
 📧 Email: swayamk32@gmail.com
+
 📞 Contact: +91 9334779673
+
 🌐 GitHub: github.com/your-username
